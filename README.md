@@ -1,4 +1,4 @@
-## Moshi Moshi! Ore wa Pavan! 👋
+## Hii!!! Hellooo!!! 👋
 
 I'm a software developer with experience in robotics, backend, and frontend development. I enjoy creating efficient, scalable solutions and have worked on a range of projects, from robotics automation to multi-vendor e-commerce platforms. Passionate about both the technical and creative sides of software development, I aim to build impactful and innovative applications.
 <!--
